@@ -1602,6 +1602,7 @@ queue.clear()  # Clear all items
 ```python
 from resources.lib.utilities import createError
 import logging
+import xbmcgui
 
 logger = logging.getLogger(__name__)
 
